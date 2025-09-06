@@ -102,7 +102,7 @@ You can create one using tools like: https://canva.com, https://placehold.co, or
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://t.me/Moheb_3D">
-    <img src="https://img.shields.io/badge/Telegram-D14836?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   
 </p>
