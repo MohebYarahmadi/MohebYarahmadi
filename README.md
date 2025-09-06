@@ -19,7 +19,6 @@ You can create one using tools like: https://canva.com, https://placehold.co, or
 **Languages and Frameworks:**
 <!-- Icons from https://shields.io/badges or https://simpleicons.org/ -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-C++-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal-C++-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 
