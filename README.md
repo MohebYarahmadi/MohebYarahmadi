@@ -1,6 +1,6 @@
 <!-- A catchy header/banner image makes your profile stand out.
 You can create one using tools like: https://canva.com, https://placehold.co, or https://github.com/kyechan99/capsule-render -->
-![Header](https://placehold.co/1200x300/2d2b55/FFFFFF?text=Welcome+to+My+GitHub+Profile!)
+![Header](https://placehold.co/1200x300/0077B5/FFFFFF?text=Welcome+to+My+GitHub+Profile!)
 
 <h1 align="center">Hi there, I'm Moheb 👋</h1>
 <h3 align="center">A passionate game developer from true hell.</h3>
