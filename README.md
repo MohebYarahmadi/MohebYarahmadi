@@ -3,14 +3,14 @@ You can create one using tools like: https://canva.com, https://placehold.co, or
 ![Header](https://placehold.co/1200x300/2d2b55/FFFFFF?text=Welcome+to+My+GitHub+Profile!)
 
 <h1 align="center">Hi there, I'm Moheb 👋</h1>
-<h3 align="center">A passionate game developer from hell.</h3>
+<h3 align="center">A passionate game developer from true hell.</h3>
 
-- 🔭 I’m currently working as a **Barber at my own shop (**
+- 🔭 I’m currently working as a **Barber at my own shop**. unbelievable, right?
 - 🌱 I’m currently learning **more about Microservices.**
 - 👯 I’m looking to collaborate on **Open Source Projects in Game or Webdev.**
 - 💬 Ask me about **Everything you want.**
-- 📫 How to reach me: **moheb.yarahmadi@gmail.com**
-- ⚡ Fun fact: **I can't swim but I love swiming.**
+- 📫 How to reach me: **moheb.yarahmadi@gmail.com** or faster: **https://t.me/Moheb_3D**.
+- ⚡ Fun fact: **I can't swim but I love swimming. Ask me why, there is story about it!**
 
 ---
 
@@ -24,15 +24,15 @@ You can create one using tools like: https://canva.com, https://placehold.co, or
 ![Unreal Engine](https://img.shields.io/badge/Unreal-C++-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ## 🛠️ Tools & Platforms
-
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Design & Modeling
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Design & 3D-Modeling
 ![UML](https://img.shields.io/badge/UML-Diagrams-D71C4C?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 ![Maya](https://img.shields.io/badge/Maya-3D-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-3D-F5792A?style=for-the-badge&logo=blender&logoColor=white)
@@ -100,6 +100,10 @@ You can create one using tools like: https://canva.com, https://placehold.co, or
   <a href="mailto:moheb.yarahmadi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+  <a href="https://t.me/Moheb_3D">
+    <img src="https://img.shields.io/badge/Telegram-D14836?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  
 </p>
 
 <p align="center">
