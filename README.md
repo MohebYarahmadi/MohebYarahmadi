@@ -86,7 +86,9 @@ You can create one using tools like: https://canva.com, https://placehold.co, or
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ **More projects and articles on my portfolio:** [Your Portfolio Website Link](https://your-portfolio.com)
+➡️ **More connection to me:** [Links](https://zil.ink/moheb.yarahmadi)
+➡️ **More projects and articles on my portfolio:** [Ashes_int_the_wind](https://mohebyarahmadi.github.io/Ashes_in_the_wind/)
+
 
 ---
 
