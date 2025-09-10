@@ -62,7 +62,7 @@ You can create one using tools like: https://canva.com, https://placehold.co, or
 <!-- A dynamic activity graph -->
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Your Activity Graph" src="username=mohebyarahmadi&bg_color=24292f&color=adbac7&line=adbac7&point=539bf5&area=true&hide_border=true" />
+    <img alt="Your Activity Graph" src="[username=mohebyarahmadi&bg_color=24292f&color=adbac7&line=adbac7&point=539bf5&area=true&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=MohebYarahmadi&theme=react-dark&hide_border=true&area=true)" />
   </a>
 </p>
 
