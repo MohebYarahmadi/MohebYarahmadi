@@ -86,7 +86,7 @@ You can create one using tools like: https://canva.com, https://placehold.co, or
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ **More connection to me:** [Links](https://zil.ink/moheb.yarahmadi)
-➡️ **More projects and articles on my portfolio:** [Ashes_int_the_wind](https://mohebyarahmadi.github.io/Ashes_in_the_wind/)
+➡️ **More projects and articles on my portfolio:** [My Personal Blog](https://mohebyarahmadi.github.io/blogforme)
 
 
 ---
