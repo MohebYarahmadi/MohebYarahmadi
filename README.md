@@ -1,16 +1,15 @@
 <!-- A catchy header/banner image makes your profile stand out.
 You can create one using tools like: https://canva.com, https://placehold.co, or https://github.com/kyechan99/capsule-render -->
-![Header](https://placehold.co/1200x300/0077B5/FFFFFF?text=Welcome+to+My+GitHub+Profile!)
+![Header](https://placehold.co/1200x300/0077B5/65B891?text=Moheb+Yarahmadi!)
 
-<h1 align="center">Hi there, I'm Moheb 👋</h1>
-<h3 align="center">A passionate game developer from true hell.</h3>
+<h1 align="center">Hi there, It's me, Moheb 👋</h1>
+<h3 align="center">A passionate game developer from hell.</h3>
 
-- 🔭 I’m currently working as a **Barber at my own shop**. unbelievable, right?
-- 🌱 I’m currently learning **more about Microservices.**
+- 🔭 I’m currently working as a **Barber mentor**. cool huh?
+- 🌱 also currently learning **more about Game Engines.**
 - 👯 I’m looking to collaborate on **Open Source Projects in Game or Webdev.**
 - 💬 Ask me about **Everything you want.**
 - 📫 How to reach me: **moheb.yarahmadi@gmail.com** or faster: **https://t.me/Moheb_3D**.
-- ⚡ Fun fact: **I can't swim but I love swimming. Ask me why, there is story about it!**
 
 ---
 
@@ -44,19 +43,7 @@ You can create one using tools like: https://canva.com, https://placehold.co, or
 
 <!-- A view of your stats - choose one or a combination. -->
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohebYarahmadi&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Your GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohebYarahmadi&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-  </a>
-</p>
 
-<!-- GitHub Streak Stats - Optional but popular -->
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=MohebYarahmadi&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  </a>
 </p>
 
 <!-- A dynamic activity graph -->
@@ -65,18 +52,6 @@ You can create one using tools like: https://canva.com, https://placehold.co, or
     <img alt="Your Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MohebYarahmadi&theme=react-dark&hide_border=true&area=true" />
   </a>
 </p>
----
-
-### 🏆 GitHub Trophies
-
-<!-- Trophy stats for some gamification -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MohebYarahmadi&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
 
 ### 📝 Latest Blog Posts / Portfolio
 
