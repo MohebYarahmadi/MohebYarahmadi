@@ -14,7 +14,9 @@
 **Languages and Frameworks:**
 <!-- Icons from https://shields.io/badges or https://simpleicons.org/ -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-C++-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Django](https://img.shields.io/badge/Qt-C++-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![SSDL/SFML](https://img.shields.io/badge/SFML?style=for-the-badge&logo=unrealengine&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal-C++-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ## 🛠️ Tools & Platforms
