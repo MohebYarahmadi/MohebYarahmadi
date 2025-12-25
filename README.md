@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, It's me, Moheb 👋</h1>
 <h3 align="center">A passionate game developer from hell.</h3>
 
-- 🔭 I’m currently working as a **Barber mentor**. cool huh?
-- 🌱 also currently learning **more about Game Engines.**
+- 🔭 I’m currently working part time as a **Barber**. cool huh?
+- 🌱 also learning **more about Game Engines.** and develop my own indie game.
 - 👯 I’m looking to collaborate on **Open Source Projects in Game or Webdev.**
 - 💬 Ask me about **Everything you want.**
 - 📫 How to reach me: **moheb.yarahmadi@gmail.com** or faster: **https://t.me/Moheb_3D**.
@@ -15,8 +15,8 @@
 <!-- Icons from https://shields.io/badges or https://simpleicons.org/ -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Qt-C++-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![SSDL/SFML](https://img.shields.io/badge/SFML?style=for-the-badge&logo=unrealengine&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript?style=for-the-badge&logo=unrealengine&logoColor=white)
+![SFML](https://img.shields.io/badge/c%2B%2B-SFML-blue?style=for-the-badge&logoColor=violet)
+![GDScript](https://img.shields.io/badge/Godot-GDScript-violet?style=for-the-badge&logoColor=violet)
 ![Unreal Engine](https://img.shields.io/badge/Unreal-C++-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ## 🛠️ Tools & Platforms
