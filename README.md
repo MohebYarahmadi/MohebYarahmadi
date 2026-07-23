@@ -1,10 +1,7 @@
 <h1 align="center">Hi there, It's me, Moheb 👋</h1>
 <h3 align="center">A passionate game developer from hell.</h3>
 
-- 🔭 I’m currently working part time as a **Barber**. cool huh?
-- 🌱 also learning **more about Game Engines.** and develop my own indie game.
 - 👯 I’m looking to collaborate on **Open Source Projects in Game or Webdev.**
-- 💬 Ask me about **Everything you want.**
 - 📫 How to reach me: **moheb.yarahmadi@gmail.com** or faster: **https://t.me/Moheb_3D**.
 
 ---
