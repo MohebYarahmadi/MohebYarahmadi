@@ -1,68 +1,140 @@
-<h1 align="center">Hi there, It's me, Moheb 👋</h1>
-<h3 align="center">A passionate game developer from hell.</h3>
+<h1 align="center">Hi, I'm Moheb 👋</h1>
 
-- 👯 I’m looking to collaborate on **Open Source Projects in Game or Webdev.**
-- 📫 How to reach me: **moheb.yarahmadi@gmail.com** or faster: **https://t.me/Moheb_3D**.
+<h3 align="center">
+Backend Developer · Game Developer · 3D Artist
+</h3>
 
----
-
-### 🛠️ My Tech Stack
-
-**Languages and Frameworks:**
-<!-- Icons from https://shields.io/badges or https://simpleicons.org/ -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Python-Django-Green?style=for-the-badge&logoColor=violet)
-![Flask](https://img.shields.io/badge/Python-Flask-pink?style=for-the-badge&logoColor=violet)
-![SSDL/SFML](https://img.shields.io/badge/SSDL%2FSFML-C%2B%2B-blue?style=for-the-badge&logoColor=violet)
-![GDScript](https://img.shields.io/badge/Godot-GDScript-violet?style=for-the-badge&logoColor=violet)
-![Unreal Engine](https://img.shields.io/badge/Unreal-C++-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-
-## 🛠️ Tools & Platforms
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Design & 3D-Modeling
-![UML](https://img.shields.io/badge/UML-Diagrams-D71C4C?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-![Maya](https://img.shields.io/badge/Maya-3D-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-3D-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![ZBrush](https://img.shields.io/badge/ZBrush-Sculpting-6B6B6B?style=for-the-badge&logo=pixologic&logoColor=white)
-![Substance Painter](https://img.shields.io/badge/Substance-Texturing-6967CE?style=for-the-badge&logo=adobe&logoColor=white)
-
----
-
-### 📈 GitHub Stats & Activity
-
-<!-- A view of your stats - choose one or a combination. -->
 <p align="center">
-
+  I build web backends with Python and Django, experiment with game development using C++ and Unreal Engine, and create 3D assets for games.
 </p>
 
-<!-- A dynamic activity graph -->
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Your Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MohebYarahmadi&theme=react-dark&hide_border=true&area=true" />
+  <a href="https://mohebyarahmadi.github.io/blogforme">Portfolio</a>
+  ·
+  <a href="https://zil.ink/moheb.yarahmadi">Links</a>
+  ·
+  <a href="https://www.linkedin.com/in/mohebyarahmadi/">LinkedIn</a>
+</p>
+
+---
+
+## 🚀 What I Do
+
+* 🐍 Build **Python/Django REST APIs** and backend applications
+* ⚙️ Work with **PostgreSQL, Redis, Celery, and RabbitMQ**
+* 🐳 Containerize applications with **Docker**
+* 🎮 Develop games with **C++**, **SFML**, **Godot**, and **Unreal Engine**
+* 🎨 Create **3D models, characters, and game assets**
+* 🌱 Explore software architecture, distributed systems, and scalable backend development
+* 🤝 Interested in collaborating on **open-source game and web-development projects**
+
+---
+
+## 🧰 Tech Stack
+
+### Backend Development
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-A30000?style=for-the-badge\&logo=django\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+
+### Async & Messaging
+
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge\&logo=celery\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge\&logo=rabbitmq\&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### Game Development
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge\&logo=sfml\&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge\&logo=godotengine\&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge\&logo=unrealengine\&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge\&logo=godotengine\&logoColor=white)
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+### 3D & Design
+
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge\&logo=blender\&logoColor=white)
+![Maya](https://img.shields.io/badge/Autodesk%20Maya-0696D7?style=for-the-badge\&logo=autodesk\&logoColor=white)
+![ZBrush](https://img.shields.io/badge/ZBrush-6B6B6B?style=for-the-badge\&logo=pixologic\&logoColor=white)
+![Substance Painter](https://img.shields.io/badge/Substance%203D%20Painter-9999FF?style=for-the-badge\&logo=adobe\&logoColor=white)
+
+---
+
+## 🏗️ Current Focus
+
+I'm currently focusing on **backend engineering with Python and Django**, while continuing to develop my game-development skills.
+
+My backend learning path includes:
+
+`Python` → `Django` → `Django REST Framework` → `PostgreSQL` → `Redis` → `Celery` → `RabbitMQ` → `Docker`
+
+On the game-development side:
+
+`C++` → `SFML` → `Godot` → `Unreal Engine`
+
+I'm particularly interested in understanding how real-world applications are structured, tested, deployed, and scaled rather than only building isolated tutorials.
+
+---
+
+## 🎮 Game Development
+
+Game development is where my programming and 3D interests meet.
+
+I work with:
+
+* **C++** for programming fundamentals and game development
+* **SFML** for learning low-level 2D game development
+* **Godot** for 2D projects and rapid prototyping
+* **Unreal Engine** for 3D game development
+* **Blender / Maya / ZBrush** for creating game-ready assets
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/MohebYarahmadi">
+    <img src="https://github-readme-stats.vercel.app/api?username=MohebYarahmadi&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Moheb's GitHub Stats" />
   </a>
 </p>
 
-### 📝 Latest Blog Posts / Portfolio
+<p align="center">
+  <a href="https://github.com/MohebYarahmadi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohebYarahmadi&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
-<!-- If you write a blog, this is a great place to showcase your latest articles using an RSS feed. -->
-<!-- Using https://github.com/gautamkrishnar/blog-post-workflow -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-➡️ **More connection to me:** [Links](https://zil.ink/moheb.yarahmadi)
-➡️ **More projects and articles on my portfolio:** [My Personal Blog](https://mohebyarahmadi.github.io/blogforme)
-
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohebYarahmadi&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  </a>
+</p>
 
 ---
 
-### 🤝 Let's Connect
+## 📝 Portfolio & Projects
+
+🌐 **Portfolio & Articles**
+https://mohebyarahmadi.github.io/blogforme
+
+🔗 **All my links**
+https://zil.ink/moheb.yarahmadi
+
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohebyarahmadi/">
@@ -72,17 +144,16 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://t.me/Moheb_3D">
-    <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohebYarahmadi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile View Counter" />
+  <img src="https://komarev.com/ghpvc/?username=MohebYarahmadi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<!-- A fun footer, maybe a quote or a joke -->
 ---
+
 <p align="center">
-  <i>"Fall down 7 times, Getup 8"</i>
+  <i>“Fall down seven times, get up eight.”</i>
 </p>
