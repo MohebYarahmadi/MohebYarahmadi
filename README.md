@@ -9,9 +9,9 @@ Backend Developer · Game Developer · 3D Artist
 </p>
 
 <p align="center">
-  <a href="https://mohebyarahmadi.github.io/blogforme">Portfolio</a>
+  <a href="https://mohebyarahmadi.github.io/myHub/">Portfolio</a>
   ·
-  <a href="https://zil.ink/moheb.yarahmadi">Links</a>
+  <a href="https://mohebyarahmadi.github.io/myHub/">HUB</a>
   ·
   <a href="https://www.linkedin.com/in/mohebyarahmadi/">LinkedIn</a>
 </p>
@@ -127,10 +127,10 @@ I work with:
 ## 📝 Portfolio & Projects
 
 🌐 **Portfolio & Articles**
-https://mohebyarahmadi.github.io/blogforme
+https://mohebyarahmadi.github.io/myHub/
 
 🔗 **All my links**
-https://zil.ink/moheb.yarahmadi
+https://mohebyarahmadi.github.io/myHub/
 
 ---
 
