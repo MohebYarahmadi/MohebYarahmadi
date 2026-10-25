@@ -9,7 +9,7 @@ Backend Developer · Game Developer · 3D Artist
 </p>
 
 <p align="center">
-  <a href="https://mohebyarahmadi.github.io/myHub/">Portfolio</a>
+  <a href="https://mohebstudio.com/">Moheb Studio</a>
   ·
   <a href="https://mohebyarahmadi.github.io/">HUB</a>
   ·
@@ -127,7 +127,7 @@ I work with:
 ## 📝 Portfolio & Projects
 
 🌐 **Portfolio & Articles**
-https://mohebyarahmadi.github.io/
+https://mohebstudio.com/
 
 🔗 **All my links**
 https://mohebyarahmadi.github.io/
